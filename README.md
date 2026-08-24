@@ -34,12 +34,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GopiDO&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopiDO&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GopiDO&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/GopiDO?style=for-the-badge&color=2EA3F7&logo=github&logoColor=white&label=Followers" />
+  <img src="https://img.shields.io/github/stars/GopiDO?style=for-the-badge&color=2EA3F7&logo=github&logoColor=white&label=Total%20Stars&affiliations=OWNER" />
+  <img src="https://komarev.com/ghpvc/?username=GopiDO&style=for-the-badge&color=2EA3F7&label=Profile%20Views" />
 </p>
 
 ---
