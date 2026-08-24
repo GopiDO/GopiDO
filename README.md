@@ -41,10 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/GopiDO?style=for-the-badge&color=2EA3F7&logo=github&logoColor=white&label=Followers" />
+  <a href="https://github.com/GopiDO?tab=followers"><img src="https://img.shields.io/github/followers/GopiDO?style=for-the-badge&color=2EA3F7&logo=github&logoColor=white&label=Followers" /></a>
   <img src="https://img.shields.io/github/stars/GopiDO?style=for-the-badge&color=2EA3F7&logo=github&logoColor=white&label=Total%20Stars&affiliations=OWNER" />
-  <img src="https://komarev.com/ghpvc/?username=GopiDO&style=for-the-badge&color=2EA3F7&label=Profile%20Views" />
+  <a href="https://github.com/GopiDO?tab=followers"><img src="https://komarev.com/ghpvc/?username=GopiDO&style=for-the-badge&color=2EA3F7&label=Profile%20Views" /></a>
 </p>
+
+<sub>Profile Views is just a hit counter (it can't identify visitors — no service can). It links through to your real Followers list instead.</sub>
 
 ---
 
