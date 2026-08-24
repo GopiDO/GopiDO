@@ -48,6 +48,16 @@
 
 ---
 
+### 👥 People Who Follow Me
+
+<sub>Auto-updated every 6 hours by GitHub Actions — real GitHub accounts, not anonymous visitors (GitHub doesn't expose those to anyone).</sub>
+
+<!--FOLLOWERS:START-->
+_Not generated yet — runs after the first Actions workflow execution._
+<!--FOLLOWERS:END-->
+
+---
+
 <div align="center">
 
 *Thanks for stopping by — feel free to explore my repositories!* ⭐
