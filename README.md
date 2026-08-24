@@ -53,7 +53,9 @@
 <sub>Auto-updated every 6 hours by GitHub Actions — real GitHub accounts, not anonymous visitors (GitHub doesn't expose those to anyone).</sub>
 
 <!--FOLLOWERS:START-->
-_Not generated yet — runs after the first Actions workflow execution._
+_No followers yet — be the first!_
+
+<sub>Last updated: 2026-08-24 03:40 UTC · 0 follower(s)</sub>
 <!--FOLLOWERS:END-->
 
 ---
